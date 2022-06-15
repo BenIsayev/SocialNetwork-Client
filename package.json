@@ -46,5 +46,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "proxy": "https://mighty-cliffs-43232.herokuapp.com/"
 }
