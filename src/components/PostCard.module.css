@@ -1,0 +1,38 @@
+.post-container {
+    height: fit-content;
+}
+
+.post-container .header button {
+    display: none;
+}
+
+.post-container .header button.a {
+    display: block;
+}
+
+.like-btn,
+.comment-btn {
+    cursor: pointer;
+    border: none;
+    background: none;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.like-btn img,
+.comment-btn img {
+    width: 20px;
+}
+
+.like-btn span,
+.comment-btn span {
+    font-size: .7rem;
+    color: #868686;
+}
+
+.like-btn:hover,
+.comment-btn:hover {
+    color: inherit;
+
+}
