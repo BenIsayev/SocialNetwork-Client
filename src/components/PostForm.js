@@ -41,7 +41,7 @@ const PostForm = () => {
         <Toast className={classes["post-container"]}>
             <Toast.Header className={classes.header}>
                 <strong className='me-auto'>
-                    Submit new Post
+                    Submit new Post!
                 </strong>
             </Toast.Header>
             <Toast.Body>
